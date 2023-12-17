@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadkaora_com=self.webpackChunkadkaora_com||[]).push([[691],{2214:function(a,e,n){n.r(e),n.d(e,{default:function(){return o}});var t=n(959);var r=()=>{const{0:a,1:e}=(0,t.useState)(!0);return(0,t.useEffect)((()=>{e(!1)}),[]),a};var o=a=>{if(!r()){const a="it",e="it,en".split(","),n=navigator.language.substring(0,2);e.indexOf(n.toLowerCase())>=0?window.location.replace(`adkaora-build/${n}`):window.location.replace(`adkaora-build/${a}`)}return null}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-aca8a70fbcc4bfcc56d2.js.map
