@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadkaora_com=self.webpackChunkadkaora_com||[]).push([[691],{908:function(a,e,n){n.r(e);e.default=a=>{if("undefined"!=typeof window){const a=""+("it","it"),e="it,en".split(","),n=navigator.language.substring(0,2);e.indexOf(n.toLowerCase())>=0?window.location.replace(`adkaora-build/${n}`):window.location.replace(`adkaora-build/${a}`)}return null}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-b8166cda4e67ae4641ee.js.map
