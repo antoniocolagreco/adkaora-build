@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkadkaora_com=self.webpackChunkadkaora_com||[]).push([[691],{3022:function(e,n,a){a.r(n);n.default=e=>{if("undefined"!=typeof window){const e="it",n="it,en".split(","),a=navigator.language.substring(0,2);n.indexOf(a.toLowerCase())>=0?window.location.replace(`${a}`):window.location.replace(`${e}`)}return null}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-d71874f6ae3e3db28390.js.map
